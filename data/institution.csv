@@ -1,0 +1,444 @@
+"code"	"institution_key"	"institution_name"	"class"	"type"	"city"	"state"	"uva_peer"
+"Adelphi"	"ADELPHI UNIVERSITY"	"Adelphi University"	"R3"	"Private (Non-profit)"	"Garden City"	"NY"	NULL
+"AFIT"	"AIR FORCE INSTITUTE OF TECHNOLOGY"	"Air Force Institute of Technology"	"R3"	"Public"	"Wright-Patterson AFB"	"OH"	NULL
+"Albright"	"ALBRIGHT COLLEGE"	"Albright College"	"NA"	"Private (Non-profit)"	"Reading"	"PA"	NULL
+"Alliant"	"ALLIANT INTERNATIONAL UNIVERSITY SAN DIEGO"	"Alliant International University-San Diego"	"R3"	"Private (Non-profit)"	"San Diego"	"CA"	NULL
+"AIC"	"AMERICAN INTERNATIONAL COLLEGE"	"American International College"	"R3"	"Private (Non-profit)"	"Springfield"	"MA"	NULL
+"Sentinel"	"AMERICAN SENTINEL UNIVERSITY"	"American Sentinel University"	"NA"	"Private (For-profit)"	"Denver"	"CO"	NULL
+"American"	"AMERICAN UNIVERSITY"	"American University"	"R2"	"Private (Non-profit)"	"Washington"	"DC"	NULL
+"Andrews"	"ANDREWS UNIVERSITY"	"Andrews University"	"R3"	"Private (Non-profit)"	"Berrien Springs"	"MI"	NULL
+"App St"	"APPALACHIAN STATE UNIVERSITY"	"Appalachian State University"	NULL	NULL	NULL	NULL	NULL
+"Argosy ATL"	"ARGOSY UNIVERSITY ATLANTA"	"Argosy University-Atlanta"	"R3"	"Private (For-profit)"	"Atlanta"	"GA"	NULL
+"Argosy CHI"	"ARGOSY UNIVERSITY CHICAGO"	"Argosy University-Chicago"	"R3"	"Private (For-profit)"	"Chicago"	"IL"	NULL
+"Argosy DEN"	"ARGOSY UNIVERSITY DENVER"	"Argosy University-Denver"	"R3"	"Private (For-profit)"	"Denver"	"CO"	NULL
+"Argosy IE"	"ARGOSY UNIVERSITY INLAND EMPIRE"	"Argosy University-Inland Empire"	"R3"	"Private (For-profit)"	"Ontario"	"CA"	NULL
+"Argosy OC"	"ARGOSY UNIVERSITY ORANGE COUNTY"	"Argosy University-Orange County"	"R3"	"Private (For-profit)"	"Orange"	"CA"	NULL
+"Argosy PHX"	"ARGOSY UNIVERSITY PHOENIX ONLINE DIVISION"	"Argosy University-Phoenix Online Division"	"R3"	"Private (For-profit)"	"Phoenix"	"AZ"	NULL
+"Argosy SAR"	"ARGOSY UNIVERSITY SARASOTA"	"Argosy University-Sarasota"	"R3"	"Private (For-profit)"	"Sarasota"	"FL"	NULL
+"Argosy TAM"	"ARGOSY UNIVERSITY TAMPA"	"Argosy University-Tampa"	"R3"	"Private (For-profit)"	"Tampa"	"FL"	NULL
+"ASU"	"ARIZONA STATE UNIVERSITY"	"Arizona State University"	"R1"	"Public"	"Tempe"	"AZ"	NULL
+"ASU PHX"	"ARIZONA STATE UNIVERSITY DOWNTOWN PHOENIX"	"Arizona State University-Downtown Phoenix"	"R3"	"Public"	"Phoenix"	"AZ"	NULL
+"ASU SKY"	"ARIZONA STATE UNIVERSITY SKYSONG"	"Arizona State University-Skysong"	"R3"	"Public"	"Scottsdale"	"AZ"	NULL
+"Ashland"	"ASHLAND UNIVERSITY"	"Ashland University"	"R3"	"Private (Non-profit)"	"Ashland"	"OH"	NULL
+"Aspen"	"ASPEN UNIVERSITY"	"Aspen University"	"R3"	"Private (For-profit)"	"Denver"	"CO"	NULL
+"Auburn"	"AUBURN UNIVERSITY"	"Auburn University"	"R2"	"Public"	"Auburn"	"AL"	NULL
+"Augusta"	"AUGUSTA UNIVERSITY"	"Augusta University"	"R2"	"Public"	"Augusta"	"GA"	NULL
+"Aurora"	"AURORA UNIVERSITY"	"Aurora University"	"NA"	"Private (Non-profit)"	"Aurora"	"IL"	NULL
+"Austin Peay"	"AUSTIN PEAY STATE UNIVERSITY"	"Austin Peay State University"	"NA"	"Public"	"Clarksville"	"TN"	NULL
+"Azusa"	"AZUSA PACIFIC UNIVERSITY"	"Azusa Pacific University"	"R3"	"Private (Non-profit)"	"Azusa"	"CA"	NULL
+"Babson"	"BABSON COLLEGE"	"Babson College"	"NA"	"NA"	"NA"	"NA"	NULL
+"Baker"	"BAKER COLLEGE"	"Baker College"	"NA"	"NA"	"NA"	"NA"	NULL
+"Ball St"	"BALL STATE UNIVERSITY"	"Ball State University"	"R2"	"Public"	"Muncie"	"IN"	NULL
+"Barry"	"BARRY UNIVERSITY"	"Barry University"	"R3"	"Private (Non-profit)"	"Miami"	"FL"	NULL
+"Bay Path"	"BAY PATH UNIVERSITY"	"Bay Path University"	"NA"	"Private (Non-profit)"	"Longmeadow"	"MA"	NULL
+"Baylor"	"BAYLOR UNIVERSITY"	"Baylor University"	"R2"	"Private (Non-profit)"	"Waco"	"TX"	NULL
+"Bellarmine"	"BELLARMINE UNIVERSITY"	"Bellarmine University"	"NA"	"Private (Non-profit)"	"Louisville"	"KY"	NULL
+"Bellevue C"	"BELLEVUE COLLEGE"	"Bellevue College"	"NA"	"NA"	"NA"	"NA"	NULL
+"Bellevue U"	"BELLEVUE UNIVERSITY"	"Bellevue University"	"NA"	"NA"	"NA"	"NA"	NULL
+"Benedictine"	"BENEDICTINE UNIVERSITY"	"Benedictine University"	"R3"	"Private (Non-profit)"	"Lisle"	"IL"	NULL
+"Bentley"	"BENTLEY UNIVERSITY"	"Bentley University"	"NA"	"Private (Non-profit)"	"Waltham"	"MA"	NULL
+"Bioloa"	"BIOLA UNIVERSITY"	"Biola University"	"R3"	"Private (Non-profit)"	"La Mirada"	"CA"	NULL
+"Boise State"	"BOISE STATE UNIVERSITY"	"Boise State University"	"R3"	"Public"	"Boise"	"ID"	NULL
+"BC"	"BOSTON COLLEGE"	"Boston College"	"R1"	"Private (Non-profit)"	"Chestnut Hill"	"MA"	NULL
+"BU"	"BOSTON UNIVERSITY"	"Boston University"	"R1"	"Private (Non-profit)"	"Boston"	"MA"	NULL
+"BGU"	"BOWLING GREEN STATE UNIVERSITY"	"Bowling Green State University"	"R2"	"Public"	"Bowling Green"	"OH"	NULL
+"Brandeis"	"BRANDEIS UNIVERSITY"	"Brandeis University"	"R1"	"Private (Non-profit)"	"Waltham"	"MA"	NULL
+"BYU"	"BRIGHAM YOUNG UNIVERSITY PROVO"	"Brigham Young University-Provo"	"R2"	"Private (Non-profit)"	"Provo"	"UT"	NULL
+"Brown"	"BROWN UNIVERSITY"	"Brown University"	"R1"	"Private (Non-profit)"	"Providence"	"RI"	NULL
+"CIIS"	"CALIFORNIA INSTITUTE OF INTEGRAL STUDIES"	"California Institute of Integral Studies"	"R3"	"Private (Non-profit)"	"San Francisco"	"CA"	NULL
+"CalTech"	"CALIFORNIA INSTITUTE OF TECHNOLOGY"	"California Institute of Technology"	"R1"	"Private (Non-profit)"	"Pasadena"	"CA"	NULL
+"CPSLO"	"CALIFORNIA POLYTECHNIC STATE UNIVERSITY SAN LUIS OBISPO"	"California Polytechnic State University San Luis Obispo"	"NA"	"NA"	"NA"	"NA"	NULL
+"CalStEB"	"CALIFORNIA STATE UNIVERSITY EAST BAY"	"California State University East Bay"	"NA"	"NA"	"NA"	"NA"	NULL
+"CalStFre"	"CALIFORNIA STATE UNIVERSITY FRESNO"	"California State University-Fresno"	"R3"	"Public"	"Fresno"	"CA"	NULL
+"CalStFul"	"CALIFORNIA STATE UNIVERSITY FULLERTON"	"California State University-Fullerton"	"R3"	"Public"	"Fullerton"	"CA"	NULL
+"CalStLB"	"CALIFORNIA STATE UNIVERSITY LONG BEACH"	"California State University Long Beach"	"NA"	"NA"	"NA"	"NA"	NULL
+"CalStSB"	"CALIFORNIA STATE UNIVERSITY SAN BERNARDINO"	"California State University San Bernardino"	"NA"	"NA"	"NA"	"NA"	NULL
+"Capella"	"CAPELLA UNIVERSITY"	"Capella University"	"R3"	"Private (For-profit)"	"Minneapolis"	"MN"	NULL
+"Cardinal Stritch"	"CARDINAL STRITCH UNIVERSITY"	"Cardinal Stritch University"	"R3"	"Private (Non-profit)"	"Milwaukee"	"WI"	NULL
+"Carnegie Mellon"	"CARNEGIE MELLON UNIVERSITY"	"Carnegie Mellon University"	"R1"	"Private (Non-profit)"	"Pittsburgh"	"PA"	"1"
+"CWRU"	"CASE WESTERN RESERVE UNIVERSITY"	"Case Western Reserve University"	"R1"	"Private (Non-profit)"	"Cleveland"	"OH"	NULL
+"Catholic"	"CATHOLIC UNIVERSITY OF AMERICA"	"Catholic University of America"	"R2"	"Private (Non-profit)"	"Washington"	"DC"	NULL
+"CCSU"	"CENTRAL CONNECTICUT STATE UNIVERSITY"	"Central Connecticut State University"	"NA"	"NA"	"NA"	"NA"	NULL
+"CMU"	"CENTRAL MICHIGAN UNIVERSITY"	"Central Michigan University"	"R2"	"Public"	"Mount Pleasant"	"MI"	NULL
+"Chapman"	"CHAPMAN UNIVERSITY"	"Chapman University"	"NA"	"NA"	"NA"	"NA"	NULL
+"CUNY"	"CITY UNIVERSITY OF NEW YORK"	"City University Of New York"	"NA"	"NA"	"NA"	"NA"	NULL
+"CU Seattle"	"CITY UNIVERSITY OF SEATTLE"	"City University Of Seattle"	"NA"	"NA"	"NA"	"NA"	NULL
+"Claremont Grad"	"CLAREMONT GRADUATE UNIVERSITY"	"Claremont Graduate University"	"R2"	"Private (Non-profit)"	"Claremont"	"CA"	NULL
+"Clark Atlanta"	"CLARK ATLANTA UNIVERSITY"	"Clark Atlanta University"	"R2"	"Private (Non-profit)"	"Atlanta"	"GA"	NULL
+"Clark"	"CLARK UNIVERSITY"	"Clark University"	"R3"	"Private (Non-profit)"	"Worcester"	"MA"	NULL
+"Clarkson"	"CLARKSON UNIVERSITY"	"Clarkson University"	"R3"	"Private (Non-profit)"	"Potsdam"	"NY"	NULL
+"Clemson"	"CLEMSON UNIVERSITY"	"Clemson University"	"R1"	"Public"	"Clemson"	"SC"	NULL
+"Cleveland St"	"CLEVELAND STATE UNIVERSITY"	"Cleveland State University"	"R2"	"Public"	"Cleveland"	"OH"	NULL
+"DuPage"	"COLLEGE OF DUPAGE"	"College Of Dupage"	"NA"	"NA"	"NA"	"NA"	NULL
+"St Rose"	"COLLEGE OF SAINT ROSE"	"College of Saint Rose"	NULL	NULL	NULL	NULL	NULL
+"St Scholastica"	"COLLEGE OF SAINT SCHOLASTICA"	"College Of Saint Scholastica"	"NA"	"NA"	"NA"	"NA"	NULL
+"WM"	"COLLEGE OF WILLIAM AND MARY"	"College of William and Mary"	"R2"	"Public"	"Williamsburg"	"VA"	NULL
+"CSM"	"COLORADO SCHOOL OF MINES"	"Colorado School of Mines"	"R2"	"Public"	"Golden"	"CO"	NULL
+"CSU FC"	"COLORADO STATE UNIVERSITY FORT COLLINS"	"Colorado State University-Fort Collins"	"R1"	"Public"	"Fort Collins"	"CO"	NULL
+"CSU Glo"	"COLORADO STATE UNIVERSITY GLOBAL"	"Colorado State University Global"	"NA"	"NA"	"NA"	"NA"	NULL
+"ColoradoTech"	"COLORADO TECHNICAL UNIVERSITY"	"Colorado Technical University"	"NA"	"NA"	"NA"	"NA"	NULL
+"Columbia"	"COLUMBIA UNIVERSITY"	"Columbia University"	"R1"	"Private (Non-profit)"	"New York"	"NY"	"1"
+"Cornell"	"CORNELL UNIVERSITY"	"Cornell University"	"R1"	"Private (Non-profit)"	"Ithaca"	"NY"	NULL
+"Creighton"	"CREIGHTON UNIVERSITY"	"Creighton University"	"NA"	"NA"	"NA"	"NA"	NULL
+"CUNY BMB"	"CUNY BERNARD M BARUCH COLLEGE"	"Cuny Bernard M Baruch College"	"NA"	"NA"	"NA"	"NA"	NULL
+"CUNY Grad"	"CUNY GRADUATE SCHOOL AND UNIVERSITY CENTER"	"CUNY Graduate School and University Center"	"R1"	"Public"	"New York"	"NY"	NULL
+"CUNY Que"	"CUNY QUEENS COLLEGE"	"Cuny Queens College"	"NA"	"NA"	"NA"	"NA"	NULL
+"Dakota State"	"DAKOTA STATE UNIVERSITY"	"Dakota State University"	"NA"	"NA"	"NA"	"NA"	NULL
+"Dallas Baptist"	"DALLAS BAPTIST UNIVERSITY"	"Dallas Baptist University"	"R3"	"Private (Non-profit)"	"Dallas"	"TX"	NULL
+"Dartmouth"	"DARTMOUTH COLLEGE"	"Dartmouth College"	"R2"	"Private (Non-profit)"	"Hanover"	"NH"	NULL
+"Davenport"	"DAVENPORT UNIVERSITY"	"Davenport University"	"NA"	"NA"	"NA"	"NA"	NULL
+"DePaul"	"DEPAUL UNIVERSITY"	"DePaul University"	"R3"	"Private (Non-profit)"	"Chicago"	"IL"	NULL
+"Drew"	"DREW UNIVERSITY"	"Drew University"	"R3"	"Private (Non-profit)"	"Madison"	"NJ"	NULL
+"Drexel"	"DREXEL UNIVERSITY"	"Drexel University"	"R2"	"Private (Non-profit)"	"Philadelphia"	"PA"	NULL
+"Duke"	"DUKE UNIVERSITY"	"Duke University"	"R1"	"Private (Non-profit)"	"Durham"	"NC"	NULL
+"Duquesne"	"DUQUESNE UNIVERSITY"	"Duquesne University"	"R2"	"Private (Non-profit)"	"Pittsburgh"	"PA"	NULL
+"ECU"	"EAST CAROLINA UNIVERSITY"	"East Carolina University"	"R2"	"Public"	"Greenville"	"NC"	NULL
+"ETSU"	"EAST TENNESSEE STATE UNIVERSITY"	"East Tennessee State University"	"R3"	"Public"	"Johnson City"	"TN"	NULL
+"EMU"	"EASTERN MICHIGAN UNIVERSITY"	"Eastern Michigan University"	"R3"	"Public"	"Ypsilanti"	"MI"	NULL
+"Edgewood"	"EDGEWOOD COLLEGE"	"Edgewood College"	"R3"	"Private (Non-profit)"	"Madison"	"WI"	NULL
+"Elmhurst"	"ELMHURST COLLEGE"	"Elmhurst College"	"NA"	"NA"	"NA"	"NA"	NULL
+"Emory"	"EMORY UNIVERSITY"	"Emory University"	"R1"	"Private (Non-profit)"	"Atlanta"	"GA"	NULL
+"Emporia St"	"EMPORIA STATE UNIVERSITY"	"Emporia State University"	"NA"	"NA"	"NA"	"NA"	NULL
+"Fairfield"	"FAIRFIELD UNIVERSITY"	"Fairfield University"	"NA"	"NA"	"NA"	"NA"	NULL
+"Fairleigh Dickinson Met"	"FAIRLEIGH DICKINSON UNIVERSITY METROPOLITAN"	"Fairleigh Dickinson University-Metropolitan Campus"	"R3"	"Private (Non-profit)"	"Teaneck"	"NJ"	NULL
+"Fielding Grad"	"FIELDING GRADUATE UNIVERSITY"	"Fielding Graduate University"	"R3"	"Private (Non-profit)"	"Santa Barbara"	"CA"	NULL
+"FAMU"	"FLORIDA AGRICULTURAL AND MECHANICAL UNIVERSITY"	"Florida Agricultural and Mechanical University"	"R2"	"Public"	"Tallahassee"	"FL"	NULL
+"FAU"	"FLORIDA ATLANTIC UNIVERSITY"	"Florida Atlantic University"	"R2"	"Public"	"Boca Raton"	"FL"	NULL
+"FIT"	"FLORIDA INSTITUTE OF TECHNOLOGY"	"Florida Institute of Technology"	"R2"	"Private (Non-profit)"	"Melbourne"	"FL"	NULL
+"FIU"	"FLORIDA INTERNATIONAL UNIVERSITY"	"Florida International University"	"R1"	"Public"	"Miami"	"FL"	NULL
+"FSU"	"FLORIDA STATE UNIVERSITY"	"Florida State University"	"R1"	"Public"	"Tallahassee"	"FL"	NULL
+"Fordham"	"FORDHAM UNIVERSITY"	"Fordham University"	"R2"	"Private (Non-profit)"	"Bronx"	"NY"	NULL
+"Gardner Webb"	"GARDNER WEBB UNIVERSITY"	"Gardner-Webb University"	"R3"	"Private (Non-profit)"	"Boiling Springs"	"NC"	NULL
+"GMU"	"GEORGE MASON UNIVERSITY"	"George Mason University"	"R1"	"Public"	"Fairfax"	"VA"	NULL
+"GW"	"GEORGE WASHINGTON UNIVERSITY"	"George Washington University"	"R1"	"Private (Non-profit)"	"Washington"	"DC"	NULL
+"Georgetown"	"GEORGETOWN UNIVERSITY"	"Georgetown University"	"R1"	"Private (Non-profit)"	"Washington"	"DC"	NULL
+"GT"	"GEORGIA INSTITUTE OF TECHNOLOGY"	"Georgia Institute of Technology"	"R1"	"Public"	"Atlanta"	"GA"	NULL
+"Ga Southern"	"GEORGIA SOUTHERN UNIVERSITY"	"Georgia Southern University"	"R3"	"Public"	"Statesboro"	"GA"	NULL
+"Ga St"	"GEORGIA STATE UNIVERSITY"	"Georgia State University"	"R1"	"Public"	"Atlanta"	"GA"	NULL
+"Golden St"	"GOLDEN STATE UNIVERSTIY"	"Golden Gate University"	NULL	NULL	NULL	NULL	NULL
+"Grand Canyon"	"GRAND CANYON UNIVERSITY"	"Grand Canyon University"	"R3"	"Private (For-profit)"	"Phoenix"	"AZ"	NULL
+"Grand Valley St"	"GRAND VALLEY STATE UNIVERSITY"	"Grand Valley State University"	"NA"	"NA"	"NA"	"NA"	NULL
+"Grantham"	"GRANTHAM UNIVERSITY"	"Grantham University"	"NA"	"NA"	"NA"	"NA"	NULL
+"HUST"	"HARRISBURG UNIVERSITY OF SCIENCE AND TECHNOLOGY"	"Harrisburg University Of Science And Technology"	"NA"	"NA"	"NA"	"NA"	NULL
+"Harvard"	"HARVARD UNIVERSITY"	"Harvard University"	"R1"	"Private (Non-profit)"	"Cambridge"	"MA"	"1"
+"HPU"	"HAWAII PACIFIC UNIVERSITY"	"Hawaii Pacific University"	"NA"	"NA"	"NA"	"NA"	NULL
+"Hofstra"	"HOFSTRA UNIVERSITY"	"Hofstra University"	"R3"	"Private (Non-profit)"	"Hempstead"	"NY"	NULL
+"Howard"	"HOWARD UNIVERSITY"	"Howard University"	"R2"	"Private (Non-profit)"	"Washington"	"DC"	NULL
+"ID St"	"IDAHO STATE UNIVERSITY"	"Idaho State University"	"R3"	"Public"	"Pocatello"	"ID"	NULL
+"IIT"	"ILLINOIS INSTITUTE OF TECHNOLOGY"	"Illinois Institute of Technology"	"R2"	"Private (Non-profit)"	"Chicago"	"IL"	NULL
+"IL St"	"ILLINOIS STATE UNIVERSITY"	"Illinois State University"	"R2"	"Public"	"Normal"	"IL"	NULL
+"Immaculat"	"IMMACULATA UNIVERSITY"	"Immaculata University"	"R3"	"Private (Non-profit)"	"Immaculata"	"PA"	NULL
+"IN St"	"INDIANA STATE UNIVERSITY"	"Indiana State University"	"R3"	"Public"	"Terre Haute"	"IN"	NULL
+"IU"	"INDIANA UNIVERSITY BLOOMINGTON"	"Indiana University-Bloomington"	"R1"	"Public"	"Bloomington"	"IN"	NULL
+"IUP"	"INDIANA UNIVERSITY OF PENNSYLVANIA MAIN"	"Indiana University of Pennsylvania-Main Campus"	"R3"	"Public"	"Indiana"	"PA"	NULL
+"IUPUI"	"INDIANA UNIVERSITY PURDUE UNIVERSITY INDIANAPOLIS"	"Indiana University-Purdue University-Indianapolis"	"R2"	"Public"	"Indianapolis"	"IN"	NULL
+"IAUPR"	"INTER AMERICAN UNIVERSITY OF PUERTO RICO METRO"	"Inter American University of Puerto Rico-Metro"	"R3"	"Private (Non-profit)"	"San Juan"	"PR"	NULL
+"IA St"	"IOWA STATE UNIVERSITY"	"Iowa State University"	"R1"	"Public"	"Ames"	"IA"	NULL
+"Jville St"	"JACKSON STATE UNIVERSITY"	"Jackson State University"	"R2"	"Public"	"Jackson"	"MS"	NULL
+"Jville"	"JACKSONVILLE UNIVERSITY"	"Jacksonville University"	"NA"	"NA"	"NA"	"NA"	NULL
+"JHU"	"JOHNS HOPKINS UNIVERSITY"	"Johns Hopkins University"	"R1"	"Private (Non-profit)"	"Baltimore"	"MD"	NULL
+"KState"	"KANSAS STATE UNIVERSITY"	"Kansas State University"	"R1"	"Public"	"Manhattan"	"KS"	NULL
+"Keller"	"KELLER GRADUATE SCHOOL OF MANAGEMENT"	"Keller Graduate School Of Management"	"NA"	"NA"	"NA"	"NA"	NULL
+"Kennesaw St"	"KENNESAW STATE UNIVERSITY"	"Kennesaw State University"	"R3"	"Public"	"Kennesaw"	"GA"	NULL
+"Kent St"	"KENT STATE UNIVERSITY KENT"	"Kent State University at Kent"	"R2"	"Public"	"Kent"	"OH"	NULL
+"La Salle"	"LA SALLE UNIVERSITY"	"La Salle University"	NULL	NULL	NULL	NULL	NULL
+"Lamar"	"LAMAR UNIVERSITY"	"Lamar University"	"R3"	"Public"	"Beaumont"	"TX"	NULL
+"Lehigh"	"LEHIGH UNIVERSITY"	"Lehigh University"	"R2"	"Private (Non-profit)"	"Bethlehem"	"PA"	NULL
+"Lesley"	"LESLEY UNIVERSITY"	"Lesley University"	"R3"	"Private (Non-profit)"	"Cambridge"	"MA"	NULL
+"Lewis"	"LEWIS UNIVERSITY"	"Lewis University"	"NA"	"NA"	"NA"	"NA"	NULL
+"Liberty"	"LIBERTY UNIVERSITY"	"Liberty University"	"R3"	"Private (Non-profit)"	"Lynchburg"	"VA"	NULL
+"Lindenwood"	"LINDENWOOD UNIVERSITY"	"Lindenwood University"	"R3"	"Private (Non-profit)"	"Saint Charles"	"MO"	NULL
+"Lipscomb"	"LIPSCOMB UNIVERSITY"	"Lipscomb University"	"R3"	"Private (Non-profit)"	"Nashville"	"TN"	NULL
+"Loras"	"LORAS COLLEGE"	"Loras College"	"NA"	"NA"	"NA"	"NA"	NULL
+"LSU"	"LOUISIANA STATE UNIVERSITY"	"Louisiana State University"	"R1"	"Public"	"Baton Rouge"	"LA"	NULL
+"LaTech"	"LOUISIANA TECH UNIVERSITY"	"Louisiana Tech University"	"R3"	"Public"	"Ruston"	"LA"	NULL
+"Loyola"	"LOYOLA UNIVERSITY CHICAGO"	"Loyola University Chicago"	"R2"	"Private (Non-profit)"	"Chicago"	"IL"	NULL
+"Loyola MD"	"LOYOLA UNIVERSITY MARYLAND"	"Loyola University Maryland"	"NA"	"NA"	"NA"	"NA"	NULL
+"Manhattan"	"MANHATTAN COLLEGE"	"Manhattan College"	"NA"	"NA"	"NA"	"NA"	NULL
+"Marist"	"MARIST COLLEGE"	"Marist College"	"NA"	"NA"	"NA"	"NA"	NULL
+"Marquette"	"MARQUETTE UNIVERSITY"	"Marquette University"	"R2"	"Private (Non-profit)"	"Milwaukee"	"WI"	NULL
+"Maryville"	"MARYVILLE UNIVERSITY"	"Maryville University"	"NA"	"NA"	"NA"	"NA"	NULL
+"Maryville SL"	"MARYVILLE UNIVERSITY OF SAINT LOUIS"	"Maryville University of Saint Louis"	"R3"	"Private (Non-profit)"	"Saint Louis"	"MO"	NULL
+"MIT"	"MASSACHUSETTS INSTITUTE OF TECHNOLOGY"	"Massachusetts Institute of Technology"	"R1"	"Private (Non-profit)"	"Cambridge"	"MA"	"1"
+"MUSC"	"MEDICAL UNIVERSITY OF SOUTH CAROLINA"	"Medical University Of South Carolina"	"NA"	"NA"	"NA"	"NA"	NULL
+"Mercer"	"MERCER UNIVERSITY"	"Mercer University"	"R3"	"Private (Non-profit)"	"Macon"	"GA"	NULL
+"Mercyhurst"	"MERCYHURST UNIVERSITY"	"Mercyhurst University"	"NA"	"NA"	"NA"	"NA"	NULL
+"Merrimack"	"MERRIMACK COLLEGE"	"Merrimack College"	"NA"	"NA"	"NA"	"NA"	NULL
+"Miami OH"	"MIAMI UNIVERSITY OXFORD"	"Miami University-Oxford"	"R2"	"Public"	"Oxford"	"OH"	NULL
+"MSU"	"MICHIGAN STATE UNIVERSITY"	"Michigan State University"	"R1"	"Public"	"East Lansing"	"MI"	NULL
+"MTU"	"MICHIGAN TECHNOLOGICAL UNIVERSITY"	"Michigan Technological University"	"R2"	"Public"	"Houghton"	"MI"	NULL
+"MTSU"	"MIDDLE TENNESSEE STATE UNIVERSITY"	"Middle Tennessee State University"	"R3"	"Public"	"Murfreesboro"	"TN"	NULL
+"Misericordia"	"MISERICORDIA UNIVERSITY"	"Misericordia University"	"NA"	"NA"	"NA"	"NA"	NULL
+"MS St"	"MISSISSIPPI STATE UNIVERSITY"	"Mississippi State University"	"R2"	"Public"	"Mississippi State"	"MS"	NULL
+"MUST"	"MISSOURI UNIVERSITY OF SCIENCE AND TECHNOLOGY"	"Missouri University of Science and Technology"	"R2"	"Public"	"Rolla"	"MO"	NULL
+"MT St"	"MONTANA STATE UNIVERSITY"	"Montana State University"	"R2"	"Public"	"Bozeman"	"MT"	NULL
+"Montclair St"	"MONTCLAIR STATE UNIVERSITY"	"Montclair State University"	"R3"	"Public"	"Montclair"	"NJ"	NULL
+"Morgan St"	"MORGAN STATE UNIVERSITY"	"Morgan State University"	"R3"	"Public"	"Baltimore"	"MD"	NULL
+"NSS"	"NASHVILLE SOFTWARE SCHOOL"	"Nashville Software School"	"NA"	"NA"	"NA"	"NA"	NULL
+"NLU"	"NATIONAL LOUIS UNIVERSITY"	"National Louis University"	"R3"	"Private (Non-profit)"	"Chicago"	"IL"	NULL
+"National"	"NATIONAL UNIVERSITY"	"National University"	"NA"	"NA"	"NA"	"NA"	NULL
+"Naval PG"	"NAVAL POSTGRADUATE SCHOOL"	"Naval Postgraduate School"	"R2"	"Public"	"Monterey"	"CA"	NULL
+"NCF"	"NEW COLLEGE OF FLORIDA"	"New College Of Florida"	"NA"	"NA"	"NA"	"NA"	NULL
+"NEC"	"NEW ENGLAND COLLEGE"	"New England College"	"NA"	"NA"	"NA"	"NA"	NULL
+"NJCU"	"NEW JERSEY CITY UNIVERSITY"	"New Jersey City University"	NULL	NULL	NULL	NULL	NULL
+"NJIT"	"NEW JERSEY INSTITUTE OF TECHNOLOGY"	"New Jersey Institute of Technology"	"R2"	"Public"	"Newark"	"NJ"	NULL
+"NMSU"	"NEW MEXICO STATE UNIVERSITY MAIN"	"New Mexico State University-Main Campus"	"R2"	"Public"	"Las Cruces"	"NM"	NULL
+"New School"	"NEW SCHOOL"	"The New School"	"R2"	"Private (Non-profit)"	"New York"	"NY"	NULL
+"NYU"	"NEW YORK UNIVERSITY"	"New York University"	"R1"	"Private (Non-profit)"	"New York"	"NY"	NULL
+"NCATSU"	"NORTH CAROLINA A T STATE UNIVERSITY"	"North Carolina A & T State University"	"R2"	"Public"	"Greensboro"	"NC"	NULL
+"NCState"	"NORTH CAROLINA STATE UNIVERSITY"	"North Carolina State University"	"R1"	"Public"	"Raleigh"	"NC"	"1"
+"ND St"	"NORTH DAKOTA STATE UNIVERSITY MAIN"	"North Dakota State University-Main Campus"	"R2"	"Public"	"Fargo"	"ND"	NULL
+"NCU"	"NORTHCENTRAL UNIVERSITY"	"Northcentral University"	"R3"	"Private (For-profit)"	"Prescott Valley"	"AZ"	NULL
+"NEU"	"NORTHEASTERN UNIVERSITY"	"Northeastern University"	"R1"	"Private (Non-profit)"	"Boston"	"MA"	NULL
+"NAU"	"NORTHERN ARIZONA UNIVERSITY"	"Northern Arizona University"	"R2"	"Public"	"Flagstaff"	"AZ"	NULL
+"NIU"	"NORTHERN ILLINOIS UNIVERSITY"	"Northern Illinois University"	"R2"	"Public"	"Dekalb"	"IL"	NULL
+"NWU"	"NORTHWESTERN UNIVERSITY"	"Northwestern University"	"R1"	"Private (Non-profit)"	"Evanston"	"IL"	"1"
+"NDMD"	"NOTRE DAME OF MARYLAND UNIVERSITY"	"Notre Dame Of Maryland University"	"NA"	"NA"	"NA"	"NA"	NULL
+"NSEU"	"NOVA SOUTHEASTERN UNIVERSITY"	"Nova Southeastern University"	"R2"	"Private (Non-profit)"	"Fort Lauderdale"	"FL"	NULL
+"Oakland"	"OAKLAND UNIVERSITY"	"Oakland University"	"R3"	"Public"	"Rochester Hills"	"MI"	NULL
+"OSU"	"OHIO STATE UNIVERSITY"	"Ohio State University"	"R1"	"Public"	"Columbus"	"OH"	NULL
+"OSU Main"	"OHIO STATE UNIVERSITY MAIN"	"Ohio State University Main"	"NA"	"NA"	"NA"	"NA"	NULL
+"OU"	"OHIO UNIVERSITY MAIN"	"Ohio University-Main Campus"	"R2"	"Public"	"Athens"	"OH"	NULL
+"OK St"	"OKLAHOMA STATE UNIVERSITY MAIN"	"Oklahoma State University-Main Campus"	"R2"	"Public"	"Stillwater"	"OK"	NULL
+"ODU"	"OLD DOMINION UNIVERSITY"	"Old Dominion University"	"R2"	"Public"	"Norfolk"	"VA"	NULL
+"OR St"	"OREGON STATE UNIVERSITY"	"Oregon State University"	"R1"	"Public"	"Corvallis"	"OR"	NULL
+"Pace"	"PACE UNIVERSITY"	"Pace University"	"NA"	"NA"	"NA"	"NA"	NULL
+"PHSC"	"PASCO HERNANDO STATE COLLEGE"	"Pasco Hernando State College"	"NA"	"NA"	"NA"	"NA"	NULL
+"PSU Great Valley"	"PENN STATE GREAT VALLEY"	"Penn State Great Valley"	"NA"	"NA"	"NA"	"NA"	NULL
+"Penn St"	"PENNSYLVANIA STATE UNIVERSITY MAIN"	"Pennsylvania State University-Main Campus"	"R1"	"Public"	"University Park"	"PA"	NULL
+"PSU GV"	"PENNSYLVANIA STATE UNIVERSITY PENN STATE GREAT VALLEY"	"Pennsylvania State University Penn State Great Valley"	"NA"	"NA"	"NA"	"NA"	NULL
+"PSU Har"	"PENNSYLVANIA STATE UNIVERSITY PENN STATE HARRISBURG"	"Pennsylvania State University Penn State Harrisburg"	"NA"	"NA"	"NA"	"NA"	NULL
+"PSU Wor"	"PENNSYLVANIA STATE UNIVERSITY WORLD"	"Pennsylvania State University World"	"NA"	"NA"	"NA"	"NA"	NULL
+"Pepperdine"	"PEPPERDINE UNIVERSITY"	"Pepperdine University"	"R3"	"Private (Non-profit)"	"Malibu"	"CA"	NULL
+"PCUPR"	"PONTIFICAL CATHOLIC UNIVERSITY OF PUERTO RICO PONCE"	"Pontifical Catholic University of Puerto Rico-Ponce"	"R3"	"Private (Non-profit)"	"Ponce"	"PR"	NULL
+"PSU"	"PORTLAND STATE UNIVERSITY"	"Portland State University"	"R2"	"Public"	"Portland"	"OR"	NULL
+"PVAMU"	"PRAIRIE VIEW A M UNIVERSITY"	"Prairie View A & M University"	"R3"	"Public"	"Prairie View"	"TX"	NULL
+"Princeton"	"PRINCETON UNIVERSITY"	"Princeton University"	"R1"	"Private (Non-profit)"	"Princeton"	"NJ"	NULL
+"Purdue"	"PURDUE UNIVERSITY"	"Purdue University"	"R1"	"Public"	"West Lafayette"	"IN"	NULL
+"Quinnipiac"	"QUINNIPIAC UNIVERSITY"	"Quinnipiac University"	"NA"	"NA"	"NA"	"NA"	NULL
+"Radford"	"RADFORD UNIVERSITY"	"Radford University"	"NA"	"NA"	"NA"	"NA"	NULL
+"Regent"	"REGENT UNIVERSITY"	"Regent University"	"R3"	"Private (Non-profit)"	"Virginia Beach"	"VA"	NULL
+"Regis"	"REGIS UNIVERSITY"	"Regis University"	"NA"	"NA"	"NA"	"NA"	NULL
+"RPI"	"RENSSELAER POLYTECHNIC INSTITUTE"	"Rensselaer Polytechnic Institute"	"R2"	"Private (Non-profit)"	"Troy"	"NY"	NULL
+"Rice"	"RICE UNIVERSITY"	"Rice University"	"R1"	"Private (Non-profit)"	"Houston"	"TX"	NULL
+"RMU"	"ROBERT MORRIS UNIVERSITY"	"Robert Morris University"	"R3"	"Private (Non-profit)"	"Moon Township"	"PA"	NULL
+"RIT"	"ROCHESTER INSTITUTE OF TECHNOLOGY"	"Rochester Institute of Technology"	"R3"	"Private (Non-profit)"	"Rochester"	"NY"	NULL
+"Rockefeller"	"ROCKEFELLER UNIVERSITY"	"Rockefeller University"	"R2"	"Private (Non-profit)"	"New York"	"NY"	NULL
+"Rockhurst"	"ROCKHURST UNIVERSITY"	"Rockhurst University"	"NA"	"NA"	"NA"	"NA"	NULL
+"Rowan"	"ROWAN UNIVERSITY"	"Rowan University"	"NA"	"NA"	"NA"	"NA"	NULL
+"Rutgers"	"RUTGERS UNIVERSITY NEW BRUNSWICK"	"Rutgers University-New Brunswick"	"R1"	"Public"	"New Brunswick"	"NJ"	NULL
+"Rutger New"	"RUTGERS UNIVERSITY NEWARK"	"Rutgers University-Newark"	"R2"	"Public"	"Newark"	"NJ"	NULL
+"SJFC"	"SAINT JOHN FISHER COLLEGE"	"Saint John Fisher College"	"R3"	"Private (Non-profit)"	"Rochester"	"NY"	NULL
+"SJU"	"SAINT JOSEPHS UNIVERSITY"	"Saint Joseph's University"	"NA"	"NA"	"NA"	"NA"	NULL
+"SLU"	"SAINT LOUIS UNIVERSITY"	"Saint Louis University"	"R2"	"Private (Non-profit)"	"Saint Louis"	"MO"	NULL
+"St Marys"	"SAINT MARYS COLLEGE"	"Saint Mary's College"	NULL	NULL	"Notre Dame"	"IN"	NULL
+"St Marys Cal"	"SAINT MARYS COLLEGE OF CALIFORNIA"	"Saint Mary's College of California"	NULL	NULL		"CA"	NULL
+"St Peters"	"SAINT PETERS UNIVERSITY"	"Saint Peter's University"	"NA"	"NA"	"NA"	"NA"	NULL
+"St Xavier"	"SAINT XAVIER UNIVERSITY"	"Saint Xavier University"	NULL	NULL	NULL	NULL	NULL
+"SHSU"	"SAM HOUSTON STATE UNIVERSITY"	"Sam Houston State University"	"R3"	"Public"	"Huntsville"	"TX"	NULL
+"SDSU"	"SAN DIEGO STATE UNIVERSITY"	"San Diego State University"	"R2"	"Public"	"San Diego"	"CA"	NULL
+"SFSU"	"SAN FRANCISCO STATE UNIVERSITY"	"San Francisco State University"	"R3"	"Public"	"San Francisco"	"CA"	NULL
+"SJSU"	"SAN JOSE STATE UNIVERSITY"	"San Jose State University"	"NA"	"NA"	"NA"	"NA"	NULL
+"Santa Clara"	"SANTA CLARA UNIVERSITY"	"Santa Clara University"	"NA"	"NA"	"NA"	"NA"	NULL
+"SPU"	"SEATTLE PACIFIC UNIVERSITY"	"Seattle Pacific University"	"R3"	"Private (Non-profit)"	"Seattle"	"WA"	NULL
+"Seattle"	"SEATTLE UNIVERSITY"	"Seattle University"	"NA"	"NA"	"NA"	"NA"	NULL
+"Seton Hall"	"SETON HALL UNIVERSITY"	"Seton Hall University"	"R3"	"Private (Non-profit)"	"South Orange"	"NJ"	NULL
+"Shenandoah"	"SHENANDOAH UNIVERSITY"	"Shenandoah University"	"R3"	"Private (Non-profit)"	"Winchester"	"VA"	NULL
+"Slippery Rock"	"SLIPPERY ROCK UNIVERSITY"	"Slippery Rock University"	"NA"	"NA"	"NA"	"NA"	NULL
+"S Dakota State"	"SOUTH DAKOTA STATE UNIVERSITY"	"South Dakota State University"	"R2"	"Public"	"Brookings"	"SD"	NULL
+"SIU"	"SOUTHERN ILLINOIS UNIVERSITY CARBONDALE"	"Southern Illinois University-Carbondale"	"R2"	"Public"	"Carbondale"	"IL"	NULL
+"SMU"	"SOUTHERN METHODIST UNIVERSITY"	"Southern Methodist University"	"R2"	"Private (Non-profit)"	"Dallas"	"TX"	NULL
+"SNHU"	"SOUTHERN NEW HAMPSHIRE UNIVERSITY"	"Southern New Hampshire University"	"NA"	"NA"	"NA"	"NA"	NULL
+"SWOSU"	"SOUTHWESTERN OKLAHOMA STATE UNIVERSITY"	"Southwestern Oklahoma State University"	"NA"	"NA"	"NA"	"NA"	NULL
+"Spalding"	"SPALDING UNIVERSITY"	"Spalding University"	"R3"	"Private (Non-profit)"	"Louisville"	"KY"	NULL
+"SJU NY"	"ST JOHNS UNIVERSITY NEW YORK"	"St John's University-New York"	"R3"	"Private (Non-profit)"	"Queens"	"NY"	NULL
+"Stanford"	"STANFORD UNIVERSITY"	"Stanford University"	"R1"	"Private (Non-profit)"	"Stanford"	"CA"	"1"
+"Stevens"	"STEVENS INSTITUTE OF TECHNOLOGY"	"Stevens Institute of Technology"	"R2"	"Private (Non-profit)"	"Hoboken"	"NJ"	NULL
+"Stony Brook"	"STONY BROOK UNIVERSITY"	"Stony Brook University"	"R1"	"Public"	"Stony Brook"	"NY"	NULL
+"Suffolk"	"SUFFOLK UNIVERSITY"	"Suffolk University"	"R3"	"Private (Non-profit)"	"Boston"	"MA"	NULL
+"SUNY Albany"	"SUNY ALBANY"	"SUNY at Albany"	"R1"	"Public"	"Albany"	"NY"	NULL
+"SUNY Bing"	"SUNY BINGHAMTON"	"SUNY at Binghamton"	"R2"	"Public"	"Vestal"	"NY"	NULL
+"SUNY CESF"	"SUNY COLLEGE OF ENVIRONMENTAL SCIENCE AND FORESTRY"	"SUNY College of Environmental Science and Forestry"	"R3"	"Public"	"Syracuse"	"NY"	NULL
+"Syracuse"	"SYRACUSE UNIVERSITY"	"Syracuse University"	"R1"	"Private (Non-profit)"	"Syracuse"	"NY"	NULL
+"Tarleton St"	"TARLETON STATE UNIVERSITY"	"Tarleton State University"	"NA"	"NA"	"NA"	"NA"	NULL
+"TCCU"	"TEACHERS COLLEGE COLUMBIA UNIVERSITY"	"Teachers College at Columbia University"	"R2"	"Private (Non-profit)"	"New York"	"NY"	NULL
+"Temple"	"TEMPLE UNIVERSITY"	"Temple University"	"R1"	"Public"	"Philadelphia"	"PA"	NULL
+"Tenn St"	"TENNESSEE STATE UNIVERSITY"	"Tennessee State University"	"R3"	"Public"	"Nashville"	"TN"	NULL
+"TN Tech"	"TENNESSEE TECHNOLOGICAL UNIVERSITY"	"Tennessee Technological University"	"R3"	"Public"	"Cookeville"	"TN"	NULL
+"TAMU"	"TEXAS A M UNIVERSITY COLLEGE STATION"	"Texas A & M University-College Station"	"R1"	"Public"	"College Station"	"TX"	NULL
+"TAMU Com"	"TEXAS A M UNIVERSITY COMMERCE"	"Texas A & M University-Commerce"	"R2"	"Public"	"Commerce"	"TX"	NULL
+"TAMU CC"	"TEXAS A M UNIVERSITY CORPUS CHRISTI"	"Texas A & M University-Corpus Christi"	"R3"	"Public"	"Corpus Christi"	"TX"	NULL
+"TAMU Kin"	"TEXAS A M UNIVERSITY KINGSVILLE"	"Texas A & M University-Kingsville"	"R3"	"Public"	"Kingsville"	"TX"	NULL
+"TCU"	"TEXAS CHRISTIAN UNIVERSITY"	"Texas Christian University"	"R2"	"Private (Non-profit)"	"Fort Worth"	"TX"	NULL
+"TX Southern"	"TEXAS SOUTHERN UNIVERSITY"	"Texas Southern University"	"R3"	"Public"	"Houston"	"TX"	NULL
+"TX St"	"TEXAS STATE UNIVERSITY"	"Texas State University"	"R2"	"Public"	"San Marcos"	"TX"	NULL
+"TX Tech"	"TEXAS TECH UNIVERSITY"	"Texas Tech University"	"R1"	"Public"	"Lubbock"	"TX"	NULL
+"TWU"	"TEXAS WESLEYAN UNIVERSITY"	"Texas Wesleyan University"	"R3"	"Private (Non-profit)"	"Fort Worth"	"TX"	NULL
+"TX Woman"	"TEXAS WOMANS UNIVERSITY"	"Texas Woman's University"	"R3"	"Public"	"Denton"	"TX"	NULL
+"TESU"	"THOMAS EDISON STATE UNIVERSITY"	"Thomas Edison State University"	"NA"	"NA"	"NA"	"NA"	NULL
+"Trevecca Nazarene"	"TREVECCA NAZARENE UNIVERSITY"	"Trevecca Nazarene University"	"R3"	"Private (Non-profit)"	"Nashville"	"TN"	NULL
+"Trident"	"TRIDENT UNIVERSITY INTERNATIONAL"	"Trident University International"	"R3"	"Private (For-profit)"	"Cypress"	"CA"	NULL
+"TIU IL"	"TRINITY INTERNATIONAL UNIVERSITY ILLINOIS"	"Trinity International University-Illinois"	"R3"	"Private (Non-profit)"	"Deerfield"	"IL"	NULL
+"Trocaire"	"TROCAIRE COLLEGE"	"Trocaire College"	"NA"	"NA"	"NA"	"NA"	NULL
+"Tufts"	"TUFTS UNIVERSITY"	"Tufts University"	"R1"	"Private (Non-profit)"	"Medford"	"MA"	NULL
+"Tulane"	"TULANE UNIVERSITY OF LOUISIANA"	"Tulane University of Louisiana"	"R1"	"Private (Non-profit)"	"New Orleans"	"LA"	NULL
+"Union Inst"	"UNION INSTITUTE UNIVERSITY"	"Union Institute & University"	"R3"	"Private (Non-profit)"	"Cincinnati"	"OH"	NULL
+"Union"	"UNION UNIVERSITY"	"Union University"	"R3"	"Private (Non-profit)"	"Jackson"	"TN"	NULL
+"UTurabo"	"UNIVERSIDAD DEL TURABO"	"Universidad del Turabo"	"R3"	"Private (Non-profit)"	"Gurabo"	"PR"	NULL
+"Buffalo"	"UNIVERSITY BUFFALO"	"University at Buffalo"	"R1"	"Public"	"Buffalo"	"NY"	NULL
+"Akron"	"UNIVERSITY OF AKRON MAIN"	"University of Akron Main Campus"	"R2"	"Public"	"Akron"	"OH"	NULL
+"Alabama"	"UNIVERSITY OF ALABAMA"	"University of Alabama"	"R2"	"Public"	"Tuscaloosa"	"AL"	NULL
+"UA Bir"	"UNIVERSITY OF ALABAMA BIRMINGHAM"	"University of Alabama at Birmingham"	"R1"	"Public"	"Birmingham"	"AL"	NULL
+"UA Hun"	"UNIVERSITY OF ALABAMA IN HUNTSVILLE"	"University of Alabama in Huntsville"	"R2"	"Public"	"Huntsville"	"AL"	NULL
+"Alaska"	"UNIVERSITY OF ALASKA FAIRBANKS"	"University of Alaska Fairbanks"	"R2"	"Public"	"Fairbanks"	"AK"	NULL
+"Arizona"	"UNIVERSITY OF ARIZONA"	"University of Arizona"	"R1"	"Public"	"Tucson"	"AZ"	NULL
+"Arkansas"	"UNIVERSITY OF ARKANSAS"	"University of Arkansas"	"R1"	"Public"	"Fayetteville"	"AR"	NULL
+"Arkansas LR"	"UNIVERSITY OF ARKANSAS LITTLE ROCK"	"University of Arkansas at Little Rock"	"R3"	"Public"	"Little Rock"	"AR"	NULL
+"Bridgeport"	"UNIVERSITY OF BRIDGEPORT"	"University Of Bridgeport"	"NA"	"NA"	"NA"	"NA"	NULL
+"Cal"	"UNIVERSITY OF CALIFORNIA BERKELEY"	"University of California-Berkeley"	"R1"	"Public"	"Berkeley"	"CA"	"1"
+"UC Davis"	"UNIVERSITY OF CALIFORNIA DAVIS"	"University of California-Davis"	"R1"	"Public"	"Davis"	"CA"	NULL
+"UC Irvine"	"UNIVERSITY OF CALIFORNIA IRVINE"	"University of California-Irvine"	"R1"	"Public"	"Irvine"	"CA"	NULL
+"UCLA"	"UNIVERSITY OF CALIFORNIA LOS ANGELES"	"University of California-Los Angeles"	"R1"	"Public"	"Los Angeles"	"CA"	NULL
+"UC Merced"	"UNIVERSITY OF CALIFORNIA MERCED"	"University of California-Merced"	"R2"	"Public"	"Merced"	"CA"	NULL
+"UC Riverside"	"UNIVERSITY OF CALIFORNIA RIVERSIDE"	"University of California-Riverside"	"R1"	"Public"	"Riverside"	"CA"	NULL
+"UCSD"	"UNIVERSITY OF CALIFORNIA SAN DIEGO"	"University of California-San Diego"	"R1"	"Public"	"La Jolla"	"CA"	NULL
+"UCSB"	"UNIVERSITY OF CALIFORNIA SANTA BARBARA"	"University of California-Santa Barbara"	"R1"	"Public"	"Santa Barbara"	"CA"	NULL
+"UCSC"	"UNIVERSITY OF CALIFORNIA SANTA CRUZ"	"University of California-Santa Cruz"	"R1"	"Public"	"Santa Cruz"	"CA"	NULL
+"UCF"	"UNIVERSITY OF CENTRAL FLORIDA"	"University of Central Florida"	"R1"	"Public"	"Orlando"	"FL"	NULL
+"Chicago"	"UNIVERSITY OF CHICAGO"	"University of Chicago"	"R1"	"Private (Non-profit)"	"Chicago"	"IL"	NULL
+"Cincinnati"	"UNIVERSITY OF CINCINNATI"	"University of Cincinnati"	"R1"	"Public"	"Cincinnati"	"OH"	NULL
+"Colorado"	"UNIVERSITY OF COLORADO BOULDER"	"University of Colorado Boulder"	"R1"	"Public"	"Boulder"	"CO"	NULL
+"Colorado Den"	"UNIVERSITY OF COLORADO DENVER"	"University of Colorado Denver"	"R2"	"Public"	"Denver"	"CO"	NULL
+"U Conn"	"UNIVERSITY OF CONNECTICUT"	"University of Connecticut"	"R1"	"Public"	"Storrs"	"CT"	NULL
+"Dallas"	"UNIVERSITY OF DALLAS"	"University Of Dallas"	"NA"	"NA"	"NA"	"NA"	NULL
+"Dayton"	"UNIVERSITY OF DAYTON"	"University of Dayton"	"R2"	"Private (Non-profit)"	"Dayton"	"OH"	NULL
+"Delaware"	"UNIVERSITY OF DELAWARE"	"University of Delaware"	"R1"	"Public"	"Newark"	"DE"	NULL
+"Denver"	"UNIVERSITY OF DENVER"	"University of Denver"	"R2"	"Private (Non-profit)"	"Denver"	"CO"	NULL
+"UF"	"UNIVERSITY OF FLORIDA"	"University of Florida"	"R1"	"Public"	"Gainesville"	"FL"	NULL
+"UGA"	"UNIVERSITY OF GEORGIA"	"University of Georgia"	"R1"	"Public"	"Athens"	"GA"	NULL
+"Hartford"	"UNIVERSITY OF HARTFORD"	"University of Hartford"	"R3"	"Private (Non-profit)"	"West Hartford"	"CT"	NULL
+"UH Manoa"	"UNIVERSITY OF HAWAII MANOA"	"University of Hawaii at Manoa"	"R1"	"Public"	"Honolulu"	"HI"	NULL
+"Houston"	"UNIVERSITY OF HOUSTON"	"University of Houston"	"R1"	"Public"	"Houston"	"TX"	NULL
+"Idaho"	"UNIVERSITY OF IDAHO"	"University of Idaho"	"R2"	"Public"	"Moscow"	"ID"	NULL
+"Illinois Chi"	"UNIVERSITY OF ILLINOIS CHICAGO"	"University of Illinois at Chicago"	"R1"	"Public"	"Chicago"	"IL"	NULL
+"Illinois Spr"	"UNIVERSITY OF ILLINOIS SPRINGFIELD"	"University Of Illinois Springfield"	"NA"	"NA"	"NA"	"NA"	NULL
+"UICU SIS"	"UNIVERSITY OF ILLINOIS URBANA CHAMPAIGN"	"University of Illinois at Urbana-Champaign"	"R1"	"Public"	"Champaign"	"IL"	NULL
+"Iowa"	"UNIVERSITY OF IOWA"	"University of Iowa"	"R1"	"Public"	"Iowa City"	"IA"	NULL
+"Kansas"	"UNIVERSITY OF KANSAS"	"University of Kansas"	"R1"	"Public"	"Lawrence"	"KS"	NULL
+"Kansas Edw"	"UNIVERSITY OF KANSAS EDWARD"	"University of Kansas Edwards Campus"		"Public"	"Edwards"	"KS"	NULL
+"Kentucky"	"UNIVERSITY OF KENTUCKY"	"University of Kentucky"	"R1"	"Public"	"Lexington"	"KY"	NULL
+"La Verne"	"UNIVERSITY OF LA VERNE"	"University of La Verne"	"R3"	"Private (Non-profit)"	"La Verne"	"CA"	NULL
+"Louisiana Laf"	"UNIVERSITY OF LOUISIANA LAFAYETTE"	"University of Louisiana at Lafayette"	"R2"	"Public"	"Lafayette"	"LA"	NULL
+"Louisiana Mon"	"UNIVERSITY OF LOUISIANA MONROE"	"University of Louisiana at Monroe"	"R3"	"Public"	"Monroe"	"LA"	NULL
+"Louisville"	"UNIVERSITY OF LOUISVILLE"	"University of Louisville"	"R1"	"Public"	"Louisville"	"KY"	NULL
+"Maine"	"UNIVERSITY OF MAINE"	"University of Maine"	"R2"	"Public"	"Orono"	"ME"	NULL
+"Maine Far"	"UNIVERSITY OF MAINE FARMINGTON"	"University Of Maine Farmington"	"NA"	"NA"	"NA"	"NA"	NULL
+"UMT"	"UNIVERSITY OF MANAGEMENT AND TECHNOLOGY"	"University of Management and Technology"	"R3"	"Private (For-profit)"	"Arlington"	"VA"	NULL
+"UMBC"	"UNIVERSITY OF MARYLAND BALTIMORE COUNTY"	"University of Maryland-Baltimore County"	"R2"	"Public"	"Baltimore"	"MD"	NULL
+"Maryland"	"UNIVERSITY OF MARYLAND COLLEGE PARK"	"University of Maryland-College Park"	"R1"	"Public"	"College Park"	"MD"	NULL
+"UMES"	"UNIVERSITY OF MARYLAND EASTERN SHORE"	"University of Maryland Eastern Shore"	"R3"	"Public"	"Princess Anne"	"MD"	NULL
+"UMUC"	"UNIVERSITY OF MARYLAND UNIVERSITY COLLEGE"	"University Of Maryland University College"	"NA"	"NA"	"NA"	"NA"	NULL
+"UMass Amherst"	"UNIVERSITY OF MASSACHUSETTS AMHERST"	"University of Massachusetts-Amherst"	"R1"	"Public"	"Amherst"	"MA"	NULL
+"UMass"	"UNIVERSITY OF MASSACHUSETTS BOSTON"	"University of Massachusetts-Boston"	"R2"	"Public"	"Boston"	"MA"	NULL
+"UMass Dar"	"UNIVERSITY OF MASSACHUSETTS DARTMOUTH"	"University of Massachusetts-Dartmouth"	"R2"	"Public"	"North Dartmouth"	"MA"	NULL
+"UMass Low"	"UNIVERSITY OF MASSACHUSETTS LOWELL"	"University of Massachusetts-Lowell"	"R2"	"Public"	"Lowell"	"MA"	NULL
+"Memphis"	"UNIVERSITY OF MEMPHIS"	"University of Memphis"	"R2"	"Public"	"Memphis"	"TN"	NULL
+"Miami"	"UNIVERSITY OF MIAMI"	"University of Miami"	"R1"	"Private (Non-profit)"	"Coral Gables"	"FL"	NULL
+"Michigan"	"UNIVERSITY OF MICHIGAN ANN ARBOR"	"University of Michigan-Ann Arbor"	"R1"	"Public"	"Ann Arbor"	"MI"	"1"
+"Michigan Dea"	"UNIVERSITY OF MICHIGAN DEARBORN"	"University Of Michigan Dearborn"	"NA"	"NA"	"NA"	"NA"	NULL
+"Minnesota TC"	"UNIVERSITY OF MINNESOTA TWIN CITIES"	"University of Minnesota-Twin Cities"	"R1"	"Public"	"Minneapolis"	"MN"	NULL
+"Mississippi"	"UNIVERSITY OF MISSISSIPPI"	"University of Mississippi"	"R1"	"Public"	"Oxford"	"MS"	NULL
+"Missouri"	"UNIVERSITY OF MISSOURI COLUMBIA"	"University of Missouri-Columbia"	"R1"	"Public"	"Columbia"	"MO"	NULL
+"Missouri KC"	"UNIVERSITY OF MISSOURI KANSAS CITY"	"University of Missouri-Kansas City"	"R2"	"Public"	"Kansas City"	"MO"	NULL
+"Missouri SL"	"UNIVERSITY OF MISSOURI ST LOUIS"	"University of Missouri-St Louis"	"R2"	"Public"	"Saint Louis"	"MO"	NULL
+"Montana"	"UNIVERSITY OF MONTANA"	"University of Montana"	"R2"	"Public"	"Missoula"	"MT"	NULL
+"Nebraska"	"UNIVERSITY OF NEBRASKA LINCOLN"	"University of Nebraska-Lincoln"	"R1"	"Public"	"Lincoln"	"NE"	NULL
+"Nebraska Oma"	"UNIVERSITY OF NEBRASKA OMAHA"	"University of Nebraska at Omaha"	"R3"	"Public"	"Omaha"	"NE"	NULL
+"Nevada"	"UNIVERSITY OF NEVADA LAS VEGAS"	"University of Nevada-Las Vegas"	"R2"	"Public"	"Las Vegas"	"NV"	NULL
+"Nevada Ren"	"UNIVERSITY OF NEVADA RENO"	"University of Nevada-Reno"	"R2"	"Public"	"Reno"	"NV"	NULL
+"UNE"	"UNIVERSITY OF NEW ENGLAND"	"University Of New England"	"NA"	"NA"	"NA"	"NA"	NULL
+"New Hampshire"	"UNIVERSITY OF NEW HAMPSHIRE MAIN"	"University of New Hampshire-Main Campus"	"R2"	"Public"	"Durham"	"NH"	NULL
+"New Haven"	"UNIVERSITY OF NEW HAVEN"	"University Of New Haven"	"NA"	"NA"	"NA"	"NA"	NULL
+"UNM"	"UNIVERSITY OF NEW MEXICO MAIN"	"University of New Mexico-Main Campus"	"R1"	"Public"	"Albuquerque"	"NM"	NULL
+"New Orleans"	"UNIVERSITY OF NEW ORLEANS"	"University of New Orleans"	"R2"	"Public"	"New Orleans"	"LA"	NULL
+"UNC"	"UNIVERSITY OF NORTH CAROLINA CHAPEL HILL"	"University of North Carolina at Chapel Hill"	"R1"	"Public"	"Chapel Hill"	"NC"	NULL
+"UNC Cha"	"UNIVERSITY OF NORTH CAROLINA CHARLOTTE"	"University of North Carolina at Charlotte"	"R2"	"Public"	"Charlotte"	"NC"	NULL
+"UNC Gre"	"UNIVERSITY OF NORTH CAROLINA GREENSBORO"	"University of North Carolina at Greensboro"	"R2"	"Public"	"Greensboro"	"NC"	NULL
+"UNC Wil"	"UNIVERSITY OF NORTH CAROLINA WILMINGTON"	"University of North Carolina at Wilmington"	NULL	NULL	NULL	NULL	NULL
+"N Dakota"	"UNIVERSITY OF NORTH DAKOTA"	"University of North Dakota"	"R2"	"Public"	"Grand Forks"	"ND"	NULL
+"N Texas"	"UNIVERSITY OF NORTH TEXAS"	"University of North Texas"	"R1"	"Public"	"Denton"	"TX"	NULL
+"N Colorado"	"UNIVERSITY OF NORTHERN COLORADO"	"University of Northern Colorado"	"R2"	"Public"	"Greeley"	"CO"	NULL
+"ND"	"UNIVERSITY OF NOTRE DAME"	"University of Notre Dame"	"R1"	"Private (Non-profit)"	"Notre Dame"	"IN"	"1"
+"Oklahoma"	"UNIVERSITY OF OKLAHOMA NORMAN"	"University of Oklahoma-Norman Campus"	"R1"	"Public"	"Norman"	"OK"	NULL
+"Oregon"	"UNIVERSITY OF OREGON"	"University of Oregon"	"R1"	"Public"	"Eugene"	"OR"	NULL
+"Penn"	"UNIVERSITY OF PENNSYLVANIA"	"University of Pennsylvania"	"R1"	"Private (Non-profit)"	"Philadelphia"	"PA"	NULL
+"Phoenix"	"UNIVERSITY OF PHOENIX"	"University Of Phoenix"	"NA"	"NA"	"NA"	"NA"	NULL
+"Phoenix AZ"	"UNIVERSITY OF PHOENIX ARIZONA"	"University of Phoenix-Arizona"	"R3"	"Private (For-profit)"	"Tempe"	"AZ"	NULL
+"Pitt Bra"	"UNIVERSITY OF PITTSBURGH BRADFORD"	"University Of Pittsburgh Bradford"	"NA"	"NA"	"NA"	"NA"	NULL
+"Pitt"	"UNIVERSITY OF PITTSBURGH PITTSBURGH"	"University of Pittsburgh-Pittsburgh Campus"	"R1"	"Public"	"Pittsburgh"	"PA"	NULL
+"UPR"	"UNIVERSITY OF PUERTO RICO RIO PIEDRAS"	"University of Puerto Rico-Rio Piedras"	"R2"	"Public"	"San Juan"	"PR"	NULL
+"URI"	"UNIVERSITY OF RHODE ISLAND"	"University of Rhode Island"	"R2"	"Public"	"Kingston"	"RI"	NULL
+"Rochester"	"UNIVERSITY OF ROCHESTER"	"University of Rochester"	"R1"	"Private (Non-profit)"	"Rochester"	"NY"	NULL
+"San Diego"	"UNIVERSITY OF SAN DIEGO"	"University of San Diego"	"R3"	"Private (Non-profit)"	"San Diego"	"CA"	NULL
+"USFCA"	"UNIVERSITY OF SAN FRANCISCO"	"University of San Francisco"	"R3"	"Private (Non-profit)"	"San Francisco"	"CA"	NULL
+"South Alabama"	"UNIVERSITY OF SOUTH ALABAMA"	"University of South Alabama"	"R2"	"Public"	"Mobile"	"AL"	NULL
+"SC"	"UNIVERSITY OF SOUTH CAROLINA COLUMBIA"	"University of South Carolina-Columbia"	"R1"	"Public"	"Columbia"	"SC"	NULL
+"USD"	"UNIVERSITY OF SOUTH DAKOTA"	"University of South Dakota"	"R2"	"Public"	"Vermillion"	"SD"	NULL
+"USF"	"UNIVERSITY OF SOUTH FLORIDA MAIN"	"University of South Florida-Main Campus"	"R1"	"Public"	"Tampa"	"FL"	NULL
+"USC"	"UNIVERSITY OF SOUTHERN CALIFORNIA"	"University of Southern California"	"R1"	"Private (Non-profit)"	"Los Angeles"	"CA"	NULL
+"USM"	"UNIVERSITY OF SOUTHERN MISSISSIPPI"	"University of Southern Mississippi"	"R2"	"Public"	"Hattiesburg"	"MS"	NULL
+"St Francis"	"UNIVERSITY OF ST FRANCIS"	"University Of St Francis"	"NA"	"NA"	"NA"	"NA"	NULL
+"U St Thomas"	"UNIVERSITY OF ST THOMAS"	"University Of St Thomas"	"NA"	"NA"	"NA"	"NA"	NULL
+"St Thomas"	"UNIVERSITY OF ST THOMAS MINNESOTA"	"University Of St Thomas Minnesota"	"NA"	"NA"	"NA"	"NA"	NULL
+"USTSP"	"UNIVERSITY OF ST THOMAS SAINT PAUL"	"University of St Thomas-Saint Paul"	"R3"	"Private (Non-profit)"	"Saint Paul"	"MN"	NULL
+"Tenn"	"UNIVERSITY OF TENNESSEE"	"University of Tennessee"	"R1"	"Public"	"Knoxville"	"TN"	NULL
+"Tenn Cha"	"UNIVERSITY OF TENNESSEE CHATTANOOGA"	"University Of Tennessee Chattanooga"	"NA"	"NA"	"NA"	"NA"	NULL
+"Tenn Kno"	"UNIVERSITY OF TENNESSEE KNOXVILLE"	"University Of Tennessee Knoxville"	"NA"	"NA"	"NA"	"NA"	NULL
+"UT Arl"	"UNIVERSITY OF TEXAS ARLINGTON"	"University of Texas at Arlington"	"R1"	"Public"	"Arlington"	"TX"	NULL
+"UT"	"UNIVERSITY OF TEXAS AUSTIN"	"University of Texas at Austin"	"R1"	"Public"	"Austin"	"TX"	NULL
+"UT Dal"	"UNIVERSITY OF TEXAS DALLAS"	"University of Texas at Dallas"	"R1"	"Public"	"Richardson"	"TX"	NULL
+"UTEP"	"UNIVERSITY OF TEXAS EL PASO"	"University of Texas at El Paso"	"R2"	"Public"	"El Paso"	"TX"	NULL
+"UTRG"	"UNIVERSITY OF TEXAS RIO GRANDE VALLEY"	"University of Texas – Rio Grande Valley"	"R3"	"Public"	"Edinburg"	"TX"	NULL
+"UTSA"	"UNIVERSITY OF TEXAS SAN ANTONIO"	"University of Texas at San Antonio"	"R2"	"Public"	"San Antonio"	"TX"	NULL
+"Cumberlands"	"UNIVERSITY OF THE CUMBERLANDS"	"University of the Cumberlands"	"R3"	"Private (Non-profit)"	"Williamsburg"	"KY"	NULL
+"UP"	"UNIVERSITY OF THE PACIFIC"	"University of the Pacific"	"R3"	"Private (Non-profit)"	"Stockton"	"CA"	NULL
+"Toledo"	"UNIVERSITY OF TOLEDO"	"University of Toledo"	"R2"	"Public"	"Toledo"	"OH"	NULL
+"Tulsa"	"UNIVERSITY OF TULSA"	"University of Tulsa"	"R2"	"Private (Non-profit)"	"Tulsa"	"OK"	NULL
+"Utah"	"UNIVERSITY OF UTAH"	"University of Utah"	"R1"	"Public"	"Salt Lake City"	"UT"	NULL
+"Vermont"	"UNIVERSITY OF VERMONT"	"University of Vermont"	"R2"	"Public"	"Burlington"	"VT"	NULL
+"UVA"	"UNIVERSITY OF VIRGINIA"	"University of Virginia"	"R1"	"Public"	"Charlottesville"	"VA"	NULL
+"UW"	"UNIVERSITY OF WASHINGTON"	"University Of Washington"	"NA"	"NA"	"NA"	"NA"	NULL
+"UW Sea"	"UNIVERSITY OF WASHINGTON SEATTLE"	"University of Washington-Seattle Campus"	"R1"	"Public"	"Seattle"	"WA"	NULL
+"UW Tac"	"UNIVERSITY OF WASHINGTON TACOMA"	"University Of Washington Tacoma"	"NA"	"NA"	"NA"	"NA"	NULL
+"UWF"	"UNIVERSITY OF WEST FLORIDA"	"University of West Florida"	"R3"	"Public"	"Pensacola"	"FL"	NULL
+"UWG"	"UNIVERSITY OF WEST GEORGIA"	"University of West Georgia"	"R3"	"Public"	"Carrollton"	"GA"	NULL
+"Wisconsin Col"	"UNIVERSITY OF WISCONSIN COLLEGES"	"University Of Wisconsin Colleges"	"NA"	"NA"	"NA"	"NA"	NULL
+"Wisconsin Ext"	"UNIVERSITY OF WISCONSIN EXTENSION"	"University Of Wisconsin extension"	"NA"	"NA"	"NA"	"NA"	NULL
+"Wisconsin"	"UNIVERSITY OF WISCONSIN MADISON"	"University of Wisconsin-Madison"	"R1"	"Public"	"Madison"	"WI"	NULL
+"Wisconsin Mil"	"UNIVERSITY OF WISCONSIN MILWAUKEE"	"University of Wisconsin-Milwaukee"	"R1"	"Public"	"Milwaukee"	"WI"	NULL
+"Wyoming"	"UNIVERSITY OF WYOMING"	"University of Wyoming"	"R2"	"Public"	"Laramie"	"WY"	NULL
+"USU"	"UTAH STATE UNIVERSITY"	"Utah State University"	"R2"	"Public"	"Logan"	"UT"	NULL
+"Valdosa St"	"VALDOSTA STATE UNIVERSITY"	"Valdosta State University"	"R3"	"Public"	"Valdosta"	"GA"	NULL
+"Valparaiso"	"VALPARAISO UNIVERSITY"	"Valparaiso University"	"NA"	"NA"	"NA"	"NA"	NULL
+"Vanderbilt"	"VANDERBILT UNIVERSITY"	"Vanderbilt University"	"R1"	"Private (Non-profit)"	"Nashville"	"TN"	NULL
+"Villanova"	"VILLANOVA UNIVERSITY"	"Villanova University"	"R3"	"Private (Non-profit)"	"Villanova"	"PA"	NULL
+"VCU"	"VIRGINIA COMMONWEALTH UNIVERSITY"	"Virginia Commonwealth University"	"R1"	"Public"	"Richmond"	"VA"	NULL
+"VT"	"VIRGINIA POLYTECHNIC INSTITUTE AND STATE UNIVERSITY"	"Virginia Polytechnic Institute and State University"	"R1"	"Public"	"Blacksburg"	"VA"	NULL
+"WF"	"WAKE FOREST UNIVERSITY"	"Wake Forest University"	"R2"	"Private (Non-profit)"	"Winston Salem"	"NC"	NULL
+"Walden"	"WALDEN UNIVERSITY"	"Walden University"	"R3"	"Private (For-profit)"	"Minneapolis"	"MN"	NULL
+"WSU"	"WASHINGTON STATE UNIVERSITY"	"Washington State University"	"R1"	"Public"	"Pullman"	"WA"	NULL
+"WUSL"	"WASHINGTON UNIVERSITY IN ST LOUIS"	"Washington University in St Louis"	"R1"	"Private (Non-profit)"	"Saint Louis"	"MO"	NULL
+"Wayne St"	"WAYNE STATE UNIVERSITY"	"Wayne State University"	"R1"	"Public"	"Detroit"	"MI"	NULL
+"WVU"	"WEST VIRGINIA UNIVERSITY"	"West Virginia University"	"R1"	"Public"	"Morgantown"	"WV"	NULL
+"WGU"	"WESTERN GOVERNORS UNIVERSITY"	"Western Governors University"	NULL	NULL	NULL	NULL	NULL
+"WIU"	"WESTERN ILLINOIS UNIVERSITY"	"Western Illinois University"	NULL	NULL	NULL	NULL	NULL
+"WMU"	"WESTERN MICHIGAN UNIVERSITY"	"Western Michigan University"	"R2"	"Public"	"Kalamazoo"	"MI"	NULL
+"Wichita St"	"WICHITA STATE UNIVERSITY"	"Wichita State University"	"R2"	"Public"	"Wichita"	"KS"	NULL
+"Widener"	"WIDENER UNIVERSITY MAIN"	"Widener University-Main Campus"	"R3"	"Private (Non-profit)"	"Chester"	"PA"	NULL
+"Willmington"	"WILMINGTON UNIVERSITY"	"Wilmington University"	"R3"	"Private (Non-profit)"	"New Castle"	"DE"	NULL
+"Wittenberg"	"WITTENBERG UNIVERSITY"	"Wittenberg University"	"NA"	"Private (Non-profit)"	"Springfield"	"OH"	NULL
+"Worcester Poly"	"WORCESTER POLYTECHNIC INSTITUTE"	"Worcester Polytechnic Institute"	"R2"	"Private (Non-profit)"	"Worcester"	"MA"	NULL
+"Wright St"	"WRIGHT STATE UNIVERSITY MAIN"	"Wright State University-Main Campus"	"R3"	"Public"	"Dayton"	"OH"	NULL
+"Xavier"	"XAVIER UNIVERSITY"	"Xavier University"	"NA"	"Private (Non-profit)"	"Cincinnati"	"OH"	NULL
+"Yale"	"YALE UNIVERSITY"	"Yale University"	"R1"	"Private (Non-profit)"	"New Haven"	"CT"	NULL
+"Yeshiva"	"YESHIVA UNIVERSITY"	"Yeshiva University"	"R2"	"Private (Non-profit)"	"New York"	"NY"	NULL
