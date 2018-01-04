@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sorter</title>
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <style>
+        .bin {
+            height: 200px;
+            width: 100%;
+            border: 1px solid gray;
+            padding: 1rem;
+            margin: 1rem 0;
+            box-shadow: 1px 5px 5px gray;
+        }
+        .item {
+            padding: .5rem;
+            border: 1px solid gray;
+            margin: .5rem 0;
+            width: 75%;
+            box-shadow: 1px 5px 5px gray;
+            font-size: 14pt;
+        }
+    </style>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+    <script src="titles.js"></script>
+
+</head>
+<body>
+    <div class="w3-row">
+        <button id="create-bin">Create bin</button>
+    </div>
+    <div class="w3-half w3-container" id="items">
+        <h1>Items</h1>
+    </div>
+    <div class="w3-half w3-container" id="bins">
+        <h1>Bins</h1>
+    </div>
+
+<script>
+
+bins = ['Informatics', 'Statistics', 'Computer Science', 'Databases', 'Visualization'];
+
+$(document).ready(function(){
+
+    for (i in course_titles) {
+        $('#items').append('<div class="item" id="course_'+i+'">'+course_titles[i]+'</div>')
+        $('#course_'+i).draggable(
+            {snap: '.bin'}
+        )
+    }
+
+    for (i in bins) {
+        $('#bins').append('<div class="bin"><input size=20 value="'+bins[i]+'"></div>');
+    }
+
+    $("#create-bin").click(function(){
+        $('#bins').append('<div class="bin"><input size=20></div>');
+    });
+
+});
+</script>
+</body>
+</html>

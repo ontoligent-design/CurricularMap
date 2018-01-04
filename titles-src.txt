@@ -1,0 +1,376 @@
+- 155,IIT,Data-Intensive Computing
+- 159,IIT,Data Preparation and Analysis
+- 161,IIT,Public Engagement for Scientists
+- 169,IIT,Data-Intensive Computing
+- 170,IIT,Software Testing and Analysis
+- 174,IIT,Information Retrieval
+- 194,IIT,Meshfree Methods
+
+- 197,WSU,Introduction to Data Analytics
+- 201,WSU,Introductory Linear Algebra
+- 202,WSU,Program Design & Develop.-Java
+- 209,WSU,Big Data
+- 215,WSU,Introductory Econometrics
+
+- 223,Cornell,Introduction to Survival Analysis
+- 229,Cornell,MPS Professional Development
+- 234,Cornell,Applied Design
+
+- 241,GT,Introduction to Analytics Models
+- 245,GT,Applied Analytics Practicum
+- 248,GT,Nonparametric Data Analysis
+- 249,GT,Improvement
+- 256,GT,Systems Monitoring and Prognostics
+- 258,GT,Computational Problem Solving for Scientists and Engineers
+- 265,GT,Fundamentals and Implementation
+- 273,GT,Customer Relationship Management
+- 274,GT,Marketing Research
+- 275,GT,Pricing Analytics and Revenue Management
+- 277,GT,Risk Analytics
+- 279,GT,Marketing Analytics and Pricing Strategy
+- 287,GT,Nonlinear Optimization
+- 288,GT,Deterministic Optimization
+- 291,GT,Manufacturing Systems
+- 292,GT,Warehousing Systems
+- 293,GT,Transportation and Supply Chain Systems
+- 294,GT,Public Impact Applications of OR
+- 295,GT,Supply Chain Engineering I
+- 296,GT,Supply Chain Engineering II
+- 297,GT,Supply Chain Engineering III
+
+- 299,Brown,An Introduction to Data and Computational Science
+- 300,Brown,Advanced Methods
+- 301,Brown,Advanced Methods
+
+- 311,IU,Distributed Systems
+- 312,IU,Threat and Defense
+- 318,IU,Music Information Processing
+- 329,IU,Computer Models of Symbolic Learning
+- 330,IU,Web Mining
+- 335,IU,Information Theory & Inference
+- 340,IU,Advanced Scientific Computing
+- 341,IU,Advanced Operating Systems
+- 343,IU,Elements of Artificial Intelligence
+- 345,IU,Dataflow Supercomputing
+- 348,IU,Private Information Retrieval
+- 351,IU,Information Architecture for the Web
+- 352,IU,Metadata
+- 353,IU,Search
+- 354,IU,International Information Issues
+- 355,IU,Strategic Intelligence
+- 356,IU,Digitial Curation
+- 369,IU,Threat and Defense
+- 370,IU,Big Data Applications and Analytics
+- 371,IU,Big Data Software and Projects
+- 376,IU,Audio
+- 379,IU,Informatics in Disasters and Emergency Response
+- 384,IU,Big Data Applications and Analytics
+- 385,IU,Big Data Software and Projects
+- 389,IU,"Management, Access, and Use of Big and Complex Data"
+- 396,IU,Python
+- 402,IU,Data Analysis & Modeling for Public Affairs
+- 404,IU,Data Analysis and Modeling in Public Affairs
+- 410,IU,Applied Linear Models I
+- 411,IU,Applied Linear Models II
+- 413,IU,Exploratory Data Analysis
+
+- 419,NYU,Big Data
+- 422,NYU,Inference and Representation
+
+- 431,NWU,ANALYTICS FOR COMPETITIVE ADVANTAGE
+- 433,NWU,PREDICTIVE ANALYTICS I
+- 434,NWU,OPTIMIZATION AND HEURISTICS
+- 435,NWU,INDUSTRY PRACTICUM
+- 436,NWU,ANALYTICAL CONSULTING PROJECT LEADERSHIP
+- 438,NWU,PREDICTIVE ANALYTICS II
+- 441,NWU,ANALYTICS FOR BIG DATA
+- 442,NWU,DATA WAREHOUSING AND WORKFLOW MANAGEMENT
+- 444,NWU,LEADERSHIP FOR ANALYTICAL ORGANIZATIONS AND FUNCTIONS
+- 445,NWU,DEEP LEARNING
+- 447,NWU,TEXT ANALYTICS
+- 449,NWU,PREDICTIVE MODELS FOR CREDIT RISK MANAGEMENT
+- 450,NWU,NUVENTION ANALYTICS
+
+- 468,Rutgers,Computer Graphics
+- 469,Rutgers,Computer Methods for Partial Differential Equations
+- 470,Rutgers,Computational Geometry
+- 471,Rutgers,Principles of Artificial Intelligence
+- 475,Rutgers,Theory and Applications
+- 477,Rutgers,Complexity of Computation
+- 479,Rutgers,Combinatorial Methods in Complexity Theory
+- 482,Rutgers,Distributed Systems
+- 486,Rutgers,Design of Internet Services
+- 487,Rutgers,Topics in Computers in Biomedicine
+- 505,Rutgers,Theory of Computation
+- 507,Rutgers,Convex Optimization for Engineering Applications
+- 522,Rutgers,Mathematical Analysis
+- 523,Rutgers,Functional Data Analysis
+
+- 527,Stanford,Optimization
+- 530,Stanford,Introduction to Regression Models and Analysis of Variance
+- 532,Stanford,Learning
+- 535,Stanford,Data Driven Medicine
+- 539,Stanford,Mining Massive Data Sets
+- 541,Stanford,Topics in Computer Graphics
+- 544,Stanford,Human Neuroimaging Methods
+- 545,Stanford,Paradigms for Computing with Data
+- 546,Stanford,Advanced Software Development for Scientists and Engineers
+- 552,Stanford,Advanced Multi-Core Systems
+
+- 554,USFCA,Computation for Analytics
+- 555,USFCA,Review of Linear Algebra
+- 557,USFCA,Exploratory Data Analysis
+- 558,USFCA,Linear Regression Analysis
+- 577,USFCA,Data Acquisition
+- 578,USFCA,Distributed Computing
+- 579,USFCA,Web Analytics
+- 580,USFCA,Interview Skills
+
+- 585,USC,Information Integration on the Web
+- 586,USC,Information Retrieval and Web Search Engines
+- 588,USC,Geospatial Information Management
+- 592,USC,Probabilistic Reasoning
+- 593,USC,Advanced Big Data Analytics
+- 595,USC,Theory and Computational Methods for Optimization
+- 596,USC,Applied Matrix Analysis
+- 597,USC,Directed Research
+- 600,USC,Internship in Engineering
+- 605,USC,Applied Probability
+- 606,USC,Optimization Theory and Techniques
+
+
+- 630,TAMU,Regression Analysis
+- 632,TAMU,Methods in Multivariate Analysis
+- 633,TAMU,Applied Analytics Using SAS Enterprise Miner
+- 637,TAMU,Marketing Engineering
+- 638,TAMU,Practicum
+- 639,TAMU,Directed Studies
+
+- 651,Michigan,Applied Data Analysis
+- 653,Michigan,Applied Multivariate Analysis
+- 656,Michigan,Information Retrieval
+- 657,Michigan,Big Data Management--Tools and Techniques
+- 663,Michigan,Introduction to Bioinformatics and Computational Biology
+- 664,Michigan,Biomedical Signal and Image Processing
+- 668,Michigan,Advanced Signal Processing & Applications
+- 672,Michigan,Unsupervised Feature Learning
+- 674,Michigan,Probabilistic Analysis of Large Scale Systems
+- 676,Michigan,Continuous Optimization Methods
+- 685,Michigan,Data manipulation
+- 686,Michigan,Exploratory data analysis
+- 691,Michigan,Advanced Topics in Modeling and Data Analysis
+- 692,Michigan,High Throughput Molecular Genetic and Epigenetic Data Analysis
+- 696,Michigan,Advanced Big Data Analytics
+
+- 698,U St Thomas,Foundations of Data Analysis
+- 701,U St Thomas,Big Data Architecture
+- 702,U St Thomas,Big Data Management
+- 704,U St Thomas,Software Engineering
+- 714,U St Thomas,Software Quality Assurance and Quality Control
+- 715,U St Thomas,Requirements Analysis
+
+- 716,UCSD,Python for Data Analysis
+- 717,UCSD,Data Management Systems
+- 721,UCSD,Data Integration & ETL
+- 723,UCSD,Data Analysis Using R
+- 724,UCSD,Performance Measurement
+- 726,UCSD,Beyond Relational Data Models
+
+- 732,Lewis,Encryption and Authentication
+- 734,Lewis,Large-Scale Data Storage Systems
+- 737,Lewis,Pervasive Application Development
+- 738,Lewis,Semantic Web
+- 739,Lewis,Distributed Computing Systems
+- 740,Lewis,introduction to Computational Biology
+- 741,Lewis,Data Systems in the Life Sciences
+
+- 745,St Peters,Data Analysis and Decision Modeling
+- 746,St Peters,Big Data and Data Management
+- 749,St Peters,Big Data Analytics
+- 756,St Peters,Marketing Analytics and Operations Research
+
+- 759,Worcester Poly,REGRESSION ANALYSIS
+- 760,Worcester Poly,APPLIED MULTIVARIATE ANALYSIS
+- 763,Worcester Poly,BIG DATA MANAGEMENT
+- 764,Worcester Poly,BIG DATA ANALYTICS
+
+- 768,SMU,Inference and Modeling
+- 774,SMU,Quantifying the World
+
+- 777,UNC Cha,Web Mining
+- 778,UNC Cha,Big Data Analytics for Competitive Advantage
+- 779,UNC Cha, Knowledge-Based Systems
+- 785,UNC Cha,Consumer Analytics
+- 787,UNC Cha, Decision Modeling & Analysis via Spreadsheets
+- 790,UNC Cha,Supply Chain Management
+- 793,UNC Cha, Innovation Analytics
+- 794,UNC Cha,Complex Adaptive Systems
+- 796,UNC Cha,System Dynamics
+
+- 801,S Dakota State,Predictive Analytics I
+- 803,S Dakota State,Operations Research I
+- 806,S Dakota State,Big Data Analytics
+
+- 807,Elmhurst, Data Warehousing
+- 810,Elmhurst,Quantitative Methods
+- 811,Elmhurst, Analytical Methods
+
+- 814,PSU Great Valley,Data Collection and Cleaning
+- 817,PSU Great Valley,Data-Driven Decision Making
+- 818,PSU Great Valley,Foundations of Predictive Analytics
+- 823,PSU Great Valley,Decision and Risk Analysis in Engineering
+
+- 826,Slippery Rock,REGRESSION METHODS
+- 827,Slippery Rock,OPTIMIZATION MODELS
+- 830,Slippery Rock,BIG DATA ANALYTICS
+- 831,Slippery Rock,MODEL ANALYSIS
+
+- 842,UCF,Advanced Text Mining
+- 844,UCF, Computational Analysis of Social Complexity
+- 845,UCF, Data Preparation
+
+- 850,NEC,Data Driven Decision Making
+- 855,NEC,Digital and Internet Marketing Analytics
+
+- 878,HUST,Principles and Applications
+- 879,HUST,Analytical Methods I
+- 880,HUST,"Modeling, Simulation and Gamification"
+- 881,HUST,Exploratory Data Analysis
+- 882,HUST,Principles and Applications
+- 884,HUST,Risk Modeling and Assessment
+- 885,HUST,Sentiment Analytics
+- 886,HUST,Quantitative Decision-Making
+- 890,HUST,Analytical Methods II
+- 892,HUST,Optimized Analytics
+- 893,HUST,Analytical Methods III
+
+- 895,Georgetown,Introduction to Data Analytics
+- 896,Georgetown,Massive Data Fundamentals
+- 900,Georgetown,Effective Presentation for Technology & Science
+
+- 903,Georgetown,Optimization
+- 904,Georgetown,Decision and Game Theoretic Analysis
+
+- 907,American,Brand Strategy
+- 911,American,Fraud Examination and Litigation Support
+- 912,American,Integrated Marketing Communication
+- 914,American,Investment Analysis and Portfolio Analysis
+- 915,American,Management Information Systems
+- 917,American,Predictive Analysis
+
+- 926,Chicago,Projects and Teams
+- 927,Chicago,"Teams, Strategies, and Communications"
+- 929,Chicago,Marketing Analytics
+- 930,Chicago,Credit and Insurance Risk Analytics
+- 931,Chicago,Real Time Analytics
+- 934,Chicago,Linear Algebra and Matrix Analysis
+- 935,Chicago,Big Data and Text Analytics
+- 936,Chicago,Optimization and Simulation Methodsfor Analytics
+- 938,Chicago,Digital Marketing Analyticsin Theory and Practice
+
+- 944,Dakota State,Predictive Analytics I
+- 946,Dakota State,Operations Research I
+- 949,Dakota State,Big Data Analytics
+
+- 950,Capella,Basic Applications of Analytics
+- 951,Capella, Foundations in Analytics
+- 952,Capella,Data Sources in Analytics
+- 954,Capella, Leadership for Analytics
+- 956,Capella, Applied Forecasting
+- 957,Capella, Text Mining
+- 958,Capella, Advanced Analytics and Modeling
+- 959,Capella, Reporting Solutions with Analytics
+
+- 961,Wittenberg,Design Challenges of Wicked Data Problems
+- 965,Wittenberg,"Descriptive, Predictive and Prescriptive Analytics"
+- 967,Wittenberg,Data Management
+- 968,Wittenberg,The Power and Breadth of Analytics
+- 969,Wittenberg,Targeted Applications of Analytics
+
+- 974,Brandeis,Marketing and Customer Analytics
+- 975,Brandeis,Data Quality and Governance
+- 976,Brandeis,Analytics Strategy and Management
+- 980,Brandeis,Predictive Analytics
+- 986,Brandeis,Enterprise Content Management
+
+- 987,Arkansas,Seminar in Systems Development
+- 988,Arkansas,Data Management Systems
+- 989,Arkansas,Management of Information Technology Seminar
+- 990,Arkansas,Decision Support and Analytics
+- 991,Arkansas,ERP Fundamentals
+- 992,Arkansas,ERP Configuration and Implementation
+- 994,Arkansas, Introduction to Enterprise Servers
+- 995,Arkansas,Enterprise Transaction Systems
+- 997,Arkansas,Software Engineering
+
+- 1000,Clarkson,Optimization Methods for Analytics
+- 1004,Clarkson,Data Warehousing
+- 1005,Clarkson,Tabular Data Analytics
+- 1006,Clarkson, Modeling for Insight
+- 1007,Clarkson,Geospatial Systems
+- 1009,Clarkson,Artificial Intelligence
+- 1010,Clarkson,Human Computer Interaction
+- 1011,Clarkson,Econometrics
+- 1012,Clarkson,Digital Signal processing
+- 1013,Clarkson,Pattern Recognition
+- 1016,Clarkson,Marketing Research Methods
+
+- 1017,Pepperdine,Simulation Modeling
+- 1019,Pepperdine,Valuation of Real Options
+- 1020,Pepperdine,Supply Chain Management Analytics
+- 1024,Pepperdine,Big Data Management
+- 1026,Pepperdine,Predictive Analytics
+- 1027,Pepperdine,Marketing Informatics
+- 1028,Pepperdine,Optimization Modeling
+- 1044,Valparaiso,Information Management
+- 1046,Valparaiso,Simulation and Modeling
+- 1048,Valparaiso,Computational Molecular Science
+- 1050,Valparaiso,Bioinformatics
+- 1051,Valparaiso,Computational Social Science
+- 1054,Valparaiso,Introduction to SAS
+- 1055,Valparaiso,Interactive Computer Graphics
+- 1058,Valparaiso,Dynamical Systems
+- 1059,Valparaiso,Optimization
+- 1060,Valparaiso,Game Theory
+
+- 1065,DePaul,Tools and Techniques for Computational Analysis
+- 1068,DePaul,Data Analysis and Regression
+- 1069,DePaul,Advanced Data Analysis
+- 1074,DePaul,Intelligent Information Retrieval
+- 1076,DePaul,Mining Big Data
+- 1081,DePaul,Scripting for Data Analysis
+- 1085,DePaul,Introduction to Image Processing
+- 1087,DePaul,Scripting for Data Analysis
+- 1091,DePaul,Introduction to Image Processing
+- 1092,DePaul,Applied Image Analysis
+- 1097,DePaul,Mining Big Data
+- 1098,DePaul,Intelligent Information Retrieval
+- 1099,DePaul,Computational Advertising
+- 1100,DePaul,Recommender Systems
+- 1102,DePaul,Topics in Artificial Intelligence
+- 1103,DePaul,Topics in Data Analysis
+- 1109,DePaul,Big Data and NoSQL Program
+- 1110,DePaul,Data Warehousing
+- 1112,DePaul,Information Technology Consulting
+- 1114,DePaul,Managerial & Marketing Epidemiology*
+- 1115,DePaul,Decisions in Marketing Management
+- 1116,DePaul,Customer Relationship Management
+- 1117,DePaul,Analytical Tools for Marketers
+- 1118,DePaul,Internet and Interactive Marketing
+- 1119,DePaul,Service Design & Patient Experience*
+
+
+- 1133,Tenn Cha,Advanced Computer Architecture
+- 1134,Tenn Cha,Advanced Topics in Systems Software
+- 1136,Tenn Cha,Principles of Data Analytics
+- 1144,Tenn Cha,Prescriptive Analytics
+- 1146,Tenn Cha,Advanced Data Analytics
+- 1152,Tenn Cha,Decision Making and Optimization Techniques
+- 1153,Tenn Cha,Reliability Engineering
+- 1154,Tenn Cha,Advanced Engineering Economy
+- 1155,Tenn Cha,Technical Innovation
+- 1156,Tenn Cha,Advanced Biometrics and Cryptography
+- 1159,Tenn Cha,System Vulnerability Analysis and Auditing
+- 1161,Tenn Cha,Computer Forensics
+
+- 1204,Cal,Scaling Up! Really Big Data
